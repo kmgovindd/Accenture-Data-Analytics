@@ -21,3 +21,8 @@ The end result should be one spreadsheet which contains:
 
 1. A cleaned dataset
 2. The top 5 categories
+
+
+Task 3: Data Visualization & Storytelling
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Visualize the cleaned data to gain more insights.
