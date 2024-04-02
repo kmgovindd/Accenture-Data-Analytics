@@ -1,6 +1,8 @@
+# Accenture - Data - Analytics
+
 This repository contains all the .ipnb file, excel files which has to be submitted to complete the tasks assigned during the Accenture data analytics training conducted by Forage.
 
-General overview
+**General overview**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
