@@ -26,3 +26,8 @@ The end result should be one spreadsheet which contains:
 Task 3: Data Visualization & Storytelling
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Visualize the cleaned data to gain more insights.
+
+
+Task 4: Present to the Client
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10 min video of your presentation to your client and internal team members.
